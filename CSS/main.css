@@ -400,7 +400,7 @@ header .countries .navbar-nav {
         left: 75px !important;
         right: 0 !important;
         width: 83% !important;
-        height: 100vh !important;
+        height: 40vh !important;
     }
 
     .neo-image-box .text-image .machine-cnt {
@@ -434,7 +434,7 @@ header .countries .navbar-nav {
     }
 
     .neo-hand .neo-hand-imgs .caption h4 {
-        padding: 0 0 0 300px !important;
+        padding: 0 0 0 280px !important;
         font-size: 20px !important;
     }
 
