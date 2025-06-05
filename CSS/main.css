@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
 body {
     background: #0f0f0f;
+    font-family: "Raleway", sans-serif;
 }
 
 .neo-image-box {
@@ -458,7 +461,7 @@ header .countries .navbar-nav {
 
 @media only screen and (min-width: 150px) and (max-width: 767px) {
     .navbar-light .navbar-toggler-icon {
-        background-image: url("/IMAGES/logos/menu.png") !important;
+        /* background-image: url("/IMAGES/logos/menu.png") !important; */
         width: 40px !important;
     }
 
